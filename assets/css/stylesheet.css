@@ -1,2 +1,8 @@
 /* Import of Google font */
 @import url('https://fonts.googleapis.com/css2?family=Indie+Flower&family=Rubik+Scribble&display=swap')
+
+/* rules to override browser */
+* {
+    padding : 0;
+    margin: 0;
+}
