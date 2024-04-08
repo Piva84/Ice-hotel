@@ -29,17 +29,18 @@ header {
 #ice {
     font-family: 'Rubik Scribble', 'Indie Flower', sans-serif;
     font-style: normal;
-    color: aliceblue;
+    color: white;
 }
 
 /* Styling for the ul in the header */
 #orientation {
     font-family: 'Rubik Scribble', 'Indie Flower', sans-serif;
     font-style: normal;
-    color: aliceblue;
+    color: white;
     list-style: none;
 }
 
+/* Main content */
 main {
     margin-top: 58px;
 }
