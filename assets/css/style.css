@@ -46,7 +46,9 @@ header {
     margin-right: 1rem;
     display: flex;
     flex-direction: row;
+    gap: 10px;
 }
+
 
 /* Main content */
 main {
