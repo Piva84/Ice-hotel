@@ -24,3 +24,11 @@ header {
     font-style: normal;
     color: aliceblue;
 }
+
+/* Styling for the ul in the header */
+#orientation {
+    font-family: 'Rubik Scribble', 'Indie Flower', sans-serif;
+    font-style: normal;
+    color: aliceblue;
+    list-style: none;
+}
