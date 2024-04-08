@@ -12,7 +12,7 @@ body {
     min-height: 100vh;
     display: flex;
     flex-direction: column;
-}
+    }
 
 /* Styling for the header */
 header {
@@ -40,3 +40,6 @@ header {
     list-style: none;
 }
 
+main {
+    margin-top: 58px;
+}
