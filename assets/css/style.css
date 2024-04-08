@@ -40,6 +40,7 @@ header {
 #orientation {
     font-family: 'Rubik Scribble', 'Indie Flower', sans-serif;
     font-style: normal;
+    font-size: 120%;
     color: white;
     list-style: none;
     padding-right: 1rem;
