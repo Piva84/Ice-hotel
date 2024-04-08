@@ -17,3 +17,10 @@ header {
     align-items: base;
     justify-content: space-between;
 }
+
+/* Styling of the logo */
+#ice {
+    font-family: 'Rubik Scribble', 'Indie Flower', sans-serif;
+    font-style: normal;
+    color: aliceblue;
+}
