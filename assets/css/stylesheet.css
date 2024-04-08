@@ -1,5 +1,5 @@
 /* Import of Google font */
-@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&family=Rubik+Scribble&display=swap')
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&family=Rubik+Scribble&display=swap');
 
 /* rules to override browser */
 * {
@@ -38,3 +38,4 @@ header {
     color: aliceblue;
     list-style: none;
 }
+
