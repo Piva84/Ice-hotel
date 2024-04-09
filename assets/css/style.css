@@ -93,7 +93,7 @@ main {
 h2 {
     font-family: 'Rubik Scribble', 'Indie Flower', sans-serif;
     font-style: normal;
-    font-size: 120%;
+    font-size: 140%;
     color: black;
     text-align: center;
 }
@@ -122,6 +122,26 @@ p {
     font-size: 100%;
     color: black;
     text-align: center;
+    background: rgba(255, 255, 255, .3)
+}
+
+.contact {
+    font-family: 'Reem Kufi Fun', sans-serif;
+    font-style: normal;
+    font-size: 100%;
+    color: black;
+    text-align: center;
+    background: rgba(255, 255, 255, .3)
+}
+
+.flex-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: auto;
+}
+
+.flex-container > div {
     background: rgba(255, 255, 255, .3)
 }
 
