@@ -87,6 +87,15 @@ nav {
 main {
     flex: 1 0 auto;
     margin-top: 38px;
+    background-image: url("paper.gif");
+}
+
+h2 {
+    font-family: 'Rubik Scribble', 'Indie Flower', sans-serif;
+    font-style: normal;
+    font-size: 120%;
+    color: black;
+    text-align: center;
 }
 
 /* Footer */
