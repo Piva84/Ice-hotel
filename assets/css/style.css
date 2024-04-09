@@ -85,6 +85,7 @@ nav {
 
 /* Main content */
 main {
+    flex: 1 0 auto;
     margin-top: 38px;
 }
 
@@ -103,3 +104,4 @@ footer {
         width: fit-content;
         padding-right: 1rem;
     }
+}
