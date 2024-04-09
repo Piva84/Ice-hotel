@@ -7,6 +7,8 @@
     margin: 0;
     left: 0;
     right: 0;
+    a:link { text-decoration: none;
+}
 }
 
 /* General styles for the body*/
@@ -53,11 +55,10 @@ header {
 /* Navbar styles with dropdown toggle */
 nav {
     position: absolute;
-    background-color: #ffffff;
+    background-color: black;
     width: 100%;
     left: 0;
     padding: 0 1rem;
-    box-shadow: 0 2px 2px #3a3a3a;
     display: none;
     top: 100%;
 }
@@ -73,6 +74,8 @@ nav {
 
 .nav-toggle-label {
     font-size: 2rem;
+    color: white;
+    padding-right: 2rem;
 }
 
 /* Main content */
