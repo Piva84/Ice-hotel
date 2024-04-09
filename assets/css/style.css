@@ -87,7 +87,7 @@ nav {
 main {
     flex: 1 0 auto;
     margin-top: 38px;
-    background-image: url("paper.gif");
+    background: url(../images/DSC_8395.jpg) no-repeat center center/cover;
 }
 
 h2 {
