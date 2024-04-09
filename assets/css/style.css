@@ -82,3 +82,8 @@ nav {
 main {
     margin-top: 38px;
 }
+
+footer {
+    background-color: black;
+    color: white;
+}
