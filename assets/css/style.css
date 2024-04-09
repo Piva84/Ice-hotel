@@ -52,6 +52,7 @@ header {
     gap: 10px;
 }
 
+
 /* Navbar styles with dropdown toggle */
 nav {
     position: absolute;
@@ -62,6 +63,10 @@ nav {
     display: none;
     top: 100%;
 }
+
+.menu a {
+        color: white;
+    }
 
 /* Nav toggle */
 #nav-toggle:checked~nav {
@@ -87,3 +92,14 @@ footer {
     background-color: black;
     color: white;
 }
+
+/* Media query: tablets and larger (768px and up) */
+@media screen and (min-width: 768px) {
+    /* Header */
+    nav {
+        display: block;
+        position: relative;
+        box-shadow: none;
+        width: fit-content;
+        padding-right: 1rem;
+    }
