@@ -1,5 +1,5 @@
 /* Import of Google font */
-@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&family=Rubik+Scribble&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&family=Rubik+Scribble&family=Reem+Kufi+Fun:wght@400..700&display=swap');
 
 /* rules to override browser */
 * {
@@ -94,6 +94,30 @@ h2 {
     font-family: 'Rubik Scribble', 'Indie Flower', sans-serif;
     font-style: normal;
     font-size: 120%;
+    color: black;
+    text-align: center;
+}
+
+h3 {
+    font-family: 'Reem Kufi Fun', sans-serif;
+    font-style: normal;
+    font-size: 120%;
+    color: black;
+    text-align: center;
+}
+
+h4 {
+    font-family: 'Reem Kufi Fun', sans-serif;
+    font-style: normal;
+    font-size: 100%;
+    color: black;
+    text-align: center;
+}
+
+p {
+    font-family: 'Indie Flower', sans-serif;
+    font-style: normal;
+    font-size: 100%;
     color: black;
     text-align: center;
 }
