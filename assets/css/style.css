@@ -89,8 +89,22 @@ main {
     margin-top: 38px;
 }
 
+/* Footer */
 footer {
     background-color: black;
+}
+
+#social-media {
+    text-align: center;
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+}
+
+#social-media i {
+    font-size: 160%;
+    padding: 5%;
     color: white;
 }
 
@@ -105,3 +119,4 @@ footer {
         padding-right: 1rem;
     }
 }
+
