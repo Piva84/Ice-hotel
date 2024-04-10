@@ -35,3 +35,4 @@ This is a small informative page about how the famous Icehotel in Jukkasjärvi, 
 - Here I have added some pictures from the Icehotel, that i took the second time i visited.
 - All these pictures belongs to me and I own the copyright to them
 
+![Gallery](https://github.com/Piva84/Ice-hotel/blob/main/media%20for%20README.md/gallery.jpg)
