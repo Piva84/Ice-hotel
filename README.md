@@ -42,4 +42,5 @@ This is a small informative page about how the famous Icehotel in Jukkasjärvi, 
 - In the footer I put some links to the social media sites for the Icehotel, I also included a link to the icehotel.com main page, all the links opens i new window.
 - The social media gives the user value if they want more updates and news.
 
-![Footer]
+![Footer](https://github.com/Piva84/Ice-hotel/blob/main/media%20for%20README.md/footer.jpg)
+
