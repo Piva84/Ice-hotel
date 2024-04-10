@@ -89,4 +89,3 @@ The live link can be found here -
 ###Media
 
 - All the pictures I've used are my own, that i took with my Nikon Z6 at the Icehotel in Jukkasjärvi, Sweden, February 2024.
-
