@@ -13,3 +13,11 @@ This is a small informative page about how the famous Icehotel in Jukkasjärvi, 
 
 
 ![Header](https://github.com/Piva84/Ice-hotel/blob/main/media%20for%20README.md/Header.jpg)
+
+- __The main page__
+
+- There are some text about how the "crazy" idea became a success.
+- The background is inviting nice and clean and are there all along the webpage.
+- Added an background to the text with some opacity to make it easier for the reader.
+
+![Mainpage]
