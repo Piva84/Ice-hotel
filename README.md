@@ -28,4 +28,4 @@ This is a small informative page about how the famous Icehotel in Jukkasjärvi, 
 - Here we finds the contact details about the Icehotel.
 - We can also see here that they have registered trademark for some of their names.
 
-![About]
+![About](https://github.com/Piva84/Ice-hotel/blob/main/media%20for%20README.md/about.jpg)
