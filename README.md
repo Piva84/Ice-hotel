@@ -20,4 +20,6 @@ This is a small informative page about how the famous Icehotel in Jukkasjärvi, 
 - The background is inviting nice and clean and are there all along the webpage.
 - Added an background to the text with some opacity to make it easier for the reader.
 
-![Mainpage]
+![Mainpage](https://github.com/Piva84/Ice-hotel/blob/main/media%20for%20README.md/main-page.jpg)
+
+
