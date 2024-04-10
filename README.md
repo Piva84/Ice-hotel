@@ -83,7 +83,9 @@ The live link can be found here - https://piva84.github.io/Ice-hotel/
 
 - The content came from the official webpage from icehotel - [Icehotel](https://www.icehotel.com/)
 
-- Some of the code I have used are tutorials from "the code institute", even the repository come from there.
+- Some of the code I have used are tutorials from "the code institute", even the repository come from there - [theCodeInstitute](http://www.codeinstitute.net)
+
+- I even hade some help from W3schools homepage [w3school](https://www.w3schools.com/)
 
 - The icons I've use comes from [Font Awesome](https://fontawesome.com/)
 
