@@ -75,3 +75,18 @@ This section describes the process I went through to deploy the project to a hos
   - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
 
 The live link can be found here - 
+
+## Credits
+
+- __Content__
+
+- The content came from the official webpage from icehotel - [Icehotel](https://www.icehotel.com/)
+
+- Some of the code I have used are tutorials from "the code institute", even the repository come from there.
+
+- The icons I've use comes from [Font Awesome](https://fontawesome.com/)
+
+- __Media__
+
+- All the pictures I've used are my own, that i took with my Nikon Z6 at the Icehotel in Jukkasjärvi, Sweden, February 2024.
+
