@@ -44,3 +44,10 @@ This is a small informative page about how the famous Icehotel in Jukkasjärvi, 
 
 ![Footer](https://github.com/Piva84/Ice-hotel/blob/main/media%20for%20README.md/footer.jpg)
 
+### Features left to Implement
+
+- In the future I want to add some more information and links to booking.
+
+## Testing
+
+I have tested all the html-code with the W3C validator ![W3C](https://validator.w3.org/)
