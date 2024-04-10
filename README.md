@@ -64,3 +64,14 @@ I have tested all the html-code with the W3C validator to ensure that the code i
 - ther were 3 small errors that the validator found in the css code that I'm not sure that they really are errors
 
 ![Errors](https://github.com/Piva84/Ice-hotel/blob/main/media%20for%20README.md/errors.jpg)
+
+## Deployment
+
+This section describes the process I went through to deploy the project to a hosting platform, (GitHub) 
+
+- The site was deployed to GitHub pages. The steps to deploy I went thru are as follows: 
+  - In the GitHub repository, navigate to the Settings tab 
+  - From the source section drop-down menu, select the Master Branch
+  - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
+
+The live link can be found here - 
