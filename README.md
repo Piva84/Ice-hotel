@@ -50,4 +50,17 @@ This is a small informative page about how the famous Icehotel in Jukkasjärvi, 
 
 ## Testing
 
-I have tested all the html-code with the W3C validator ![W3C](https://validator.w3.org/)
+I have tested all the html-code with the W3C validator to ensure that the code is correct and there are no errors within it.
+
+### Validator Testing 
+
+- HTML
+  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/)
+- CSS
+  - 3 small errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css)
+
+### Unfixed Bugs
+
+- ther were 3 small errors that the validator found in the css code that I'm not sure that they really are errors
+
+![Errors]
