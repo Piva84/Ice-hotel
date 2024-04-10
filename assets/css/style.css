@@ -197,6 +197,10 @@ footer {
     h2 {
         font-size: 170%;
     }
+
+    .nav-toggle-label {
+        display: none;
+    }
 }
 
 /* Media query: laptops and larger (1024px and up) */
