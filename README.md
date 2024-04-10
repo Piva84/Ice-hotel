@@ -29,3 +29,9 @@ This is a small informative page about how the famous Icehotel in Jukkasjärvi, 
 - We can also see here that they have registered trademark for some of their names.
 
 ![About](https://github.com/Piva84/Ice-hotel/blob/main/media%20for%20README.md/about.jpg)
+
+- __The Gallery__
+
+- Here I have added some pictures from the Icehotel, that i took the second time i visited.
+- All these pictures belongs to me and I own the copyright to them
+
