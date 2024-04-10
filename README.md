@@ -12,4 +12,4 @@ This is a small informative page about how the famous Icehotel in Jukkasjärvi, 
 - It's responsive so on small devices it's an igloo that opens the menu, just to make the header nice and clean.
 
 
-![Header] (https://github.com/Piva84/Ice-hotel/blob/main/media%20for%20README.md/Header.jpg)
+![Header](https://github.com/Piva84/Ice-hotel/blob/main/media%20for%20README.md/Header.jpg)
