@@ -23,3 +23,9 @@ This is a small informative page about how the famous Icehotel in Jukkasjärvi, 
 ![Mainpage](https://github.com/Piva84/Ice-hotel/blob/main/media%20for%20README.md/main-page.jpg)
 
 
+- __The About page__
+
+- Here we finds the contact details about the Icehotel.
+- We can also see here that they have registered trademark for some of their names.
+
+![About]
