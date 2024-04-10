@@ -63,4 +63,4 @@ I have tested all the html-code with the W3C validator to ensure that the code i
 
 - ther were 3 small errors that the validator found in the css code that I'm not sure that they really are errors
 
-![Errors]
+![Errors](https://github.com/Piva84/Ice-hotel/blob/main/media%20for%20README.md/errors.jpg)
